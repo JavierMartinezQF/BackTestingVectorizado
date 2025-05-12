@@ -1,0 +1,2 @@
+# BackTestingVectorizado
+Back Testing Vectorizado
